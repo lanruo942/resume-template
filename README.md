@@ -1,1 +1,3 @@
-# resume-template
+# Resume Template
+
+由 github.com/xprilion 创建的简历模板。添加了支持中文输入，改为使用 XelaTex 排版。
